@@ -1,0 +1,9 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - requests
+  - pandas
+  - ipykernel
+prefix: C:\Users\Timoteo\anaconda3\envs\project-env
